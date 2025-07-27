@@ -15,7 +15,7 @@ I'm a Computer Science student at Taylor University with minors in Cybersecurity
 ---
 
 ## Featured Projects
-- **PhishBot (Work in Progress):** Currently developing an ML-based phishing detection system using Python, scikit-learn, Flask API, and React frontend for real-time URL analysis
+- **PhishBot (Work in Progress):** Currently developing an ML-based phishing detection system using Python, scikit-learn, and React frontend for real-time URL analysis
 - **Battleship AI Player:** Intelligent game agent using minimax algorithm and probabilistic targeting - achieved 67% win rate in class tournament
 
 ---
