@@ -8,7 +8,7 @@ I'm a Computer Science student at Taylor University with minors in Cybersecurity
 ## Technical Skills
 - **Programming Languages:** Python, C++, C, JavaScript, HTML/CSS, SQL, Lua, Bash
 - **Web & Frameworks:** React, TailwindCSS, Node.js
-- **Security Tools:** Wireshark, Splunk, Snort, Linux auditd, Host-based Intrusion Detection (HIDS), Network Intrusion Detection(NIDS), nginx
+- **Security Tools:** Wireshark, Splunk, Snort, Linux auditd, nginx
 - **Tools & Technologies:** Git, GitHub, Linux, Microsoft Office 365, Active Directory
 - **Networking:** Packet Analysis, TCP/IP, Network Troubleshooting
 
