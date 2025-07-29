@@ -31,7 +31,7 @@ Basketball and soccer enthusiast. Committed to promoting technology education an
 ---
 
 ## Let's Connect
-- Email: twidykwae2@gmail.com
+- Email: twidykwae20@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/twidy-kelvin-kwae/]
 - Location: Upland, IN
 
