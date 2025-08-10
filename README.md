@@ -1,8 +1,9 @@
 # About Me:
 Hi, I'm Twidy Kelvin Kwae
-
-I'm a Computer Science student at Taylor University with minors in Cybersecurity and Data Science. I enjoy building practical programs for security analysis and threat detection, with a focus on real-world applications that combine AI/ML and cybersecurity. I am currently developing skills in SOC, Cyber Fusion Center, and system security.
-
+It all started with HTML. I was probably 14, messing around with basic web pages, and something just clicked. Watching text become a webpage was like magic, and I was hooked.
+From there, I picked up C++, Python, Java, and React.js. Now I'm learning Firebase, SQL, and AWS because there's always another tool that could make the next project better.
+I build things that solve real problems. Sometimes it's an AI model, sometimes it's a web app that makes someone's day easier, sometimes it's digging into data to find patterns nobody saw coming. The domain doesn't matter as much as the impact.
+I'm at Taylor University studying Computer Science with some cybersecurity and data science mixed in. Always looking for interesting problems to work on and people to collaborate with.
 ---
 
 ## Technical Skills
