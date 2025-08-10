@@ -1,10 +1,11 @@
 # About Me:
-Hi, I'm Twidy Kelvin Kwae
-It all started with HTML. I was probably 14, messing around with basic web pages, and something just clicked. Watching text become a webpage was like magic, and I was hooked.
-From there, I picked up C++, Python, Java, and React.js. Now I'm learning Firebase, SQL, and AWS because there's always another tool that could make the next project better.
-I build things that solve real problems. Sometimes it's an AI model, sometimes it's a web app that makes someone's day easier, sometimes it's digging into data to find patterns nobody saw coming. The domain doesn't matter as much as the impact.
-I'm at Taylor University studying Computer Science with some cybersecurity and data science mixed in. Always looking for interesting problems to work on and people to collaborate with.
+Hi, I’m Twidy Kelvin Kwae.
+It all started with HTML when I was 14, turning plain text into a living webpage felt like magic, and I was hooked.
+Since then, I’ve expanded into C++, Python, Java, and React.js, and I’m currently diving into Firebase, SQL, and AWS because there’s always another tool that can make the next project better.
+I build solutions that make an impact: sometimes it’s an AI model, sometimes a web app that simplifies life, and sometimes it’s uncovering patterns in data that no one saw before. The domain matters less to me than the real-world change it creates.
+I’m currently studying Computer Science at Taylor University, with a minor in cybersecurity and data science. Always open to tackling interesting problems and collaborating with driven people.
 ---
+
 
 ## Technical Skills
 - **Programming Languages:** Python, C++, C, JavaScript, HTML/CSS, SQL, Lua, Bash
